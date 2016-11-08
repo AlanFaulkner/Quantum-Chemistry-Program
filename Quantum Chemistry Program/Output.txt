@@ -1,0 +1,24 @@
+##############################################################################
+##                                                                          ##
+## Quantum Chemistry Program Version 1.0                    Alan Faulkner   ##
+##                                                                          ##
+## This is based in part on tutorials presented at :                        ##
+## http://sirius.chem.vt.edu/wiki/doku.php?id=crawdad:programming           ##
+##                                                                          ##
+## Code for formation of Overlap Matrixes is base on:                       ##
+## Mathematica Journal vol 16 Feb 16, 2012                                  ##
+## Mathematica Journal vol 16 Jan 31, 2013                                  ##
+## Mathematica Journal vol 16 Sep 15, 2014                                  ##
+##                                                                          ##
+## The aim of this project is to take a formatted input file that contains  ##
+## settings and coordinate information for a given small organic molecule   ##
+## Store this information in a series of arrays. use this information to    ##
+## calculate basic geometical pramaters such as bond length, angles etc.    ##
+## use the provided coordinates to build the overlap matrix, the kinetic    ##
+## overlap matirix, nuclear attraction intergrals and two electon           ##
+## intergrals using the STO-3G basis set information provided in an         ##
+## external file. Finally use these results to calculate the single point   ##
+## energy of the molecule using the Hartree_Fock Method                     ##
+##                                                                          ##
+##############################################################################
+
